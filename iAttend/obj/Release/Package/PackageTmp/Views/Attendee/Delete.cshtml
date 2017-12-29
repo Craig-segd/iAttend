@@ -1,0 +1,29 @@
+﻿
+@model iAttend.Models.Attendee
+
+@{
+    ViewBag.Title = "Delete Employee";
+}
+
+<h2>Delete</h2>
+
+<ul class="nav nav-pills">
+    <li role="presentation"><a href="@Url.Action("Create", "Attendee")">Add an Attendee</a></li>
+    <li role="presentation"><a href="@Url.Action("Edit", "Attendee")">Edit an Attendee</a></li>
+</ul>
+
+<h3>Are you sure you want to delete this attendee?</h3>
+<div>
+
+    
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-primary" /> |
+            @Html.ActionLink("Back to List", "Edit")
+        </div>
+    }
+</div>

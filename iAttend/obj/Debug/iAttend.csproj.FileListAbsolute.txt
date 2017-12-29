@@ -1,0 +1,209 @@
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\ApplicationInsights.config
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\csc.exe
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\csc.exe.config
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\csc.rsp
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\csi.exe
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\csi.rsp
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\System.AppContext.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\vbc.exe
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\vbc.exe.config
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\vbc.rsp
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\VBCSCompiler.exe
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\iAttend.dll.config
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\iAttend.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\iAttend.pdb
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Antlr3.Runtime.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\EntityFramework.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\EntityFramework.SqlServer.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.Web.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Newtonsoft.Json.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Owin.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.Helpers.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.Mvc.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.Optimization.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.Razor.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.WebPages.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.WebPages.Razor.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\WebGrease.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.Helpers.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.Mvc.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.Optimization.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.Razor.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.WebPages.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\System.Web.WebPages.Razor.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Antlr3.Runtime.pdb
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Newtonsoft.Json.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\EntityFramework.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\EntityFramework.SqlServer.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\bin\Microsoft.AI.Web.xml
+C:\Users\Craig\Desktop\iAttend\iAttend\obj\Debug\iAttend.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\iAttend\iAttend\obj\Debug\iAttend.dll
+C:\Users\Craig\Desktop\iAttend\iAttend\obj\Debug\iAttend.pdb
+C:\Users\Craig\Desktop\iAttend\iAttend\obj\Debug\iAttend.Migrations.initialModel.resources
+C:\Users\Craig\Desktop\iAttend\iAttend\obj\Debug\iAttend.csproj.GenerateResource.Cache
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\ApplicationInsights.config
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\csc.exe
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\csc.exe.config
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\csc.rsp
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\csi.exe
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\csi.rsp
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\System.AppContext.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\System.Collections.Immutable.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\System.IO.FileSystem.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\System.Reflection.Metadata.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\vbc.exe
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\vbc.exe.config
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\vbc.rsp
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\VBCSCompiler.exe
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\roslyn\VBCSCompiler.exe.config
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\iAttend.dll.config
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\iAttend.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\iAttend.pdb
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Antlr3.Runtime.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\EntityFramework.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\EntityFramework.SqlServer.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.DependencyCollector.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.Web.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.WindowsServer.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.ApplicationInsights.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.Google.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Web.Infrastructure.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Newtonsoft.Json.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\nunit.framework.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Owin.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.Helpers.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.Mvc.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.Optimization.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.Razor.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.WebPages.Deployment.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.WebPages.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.WebPages.Razor.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\WebGrease.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\nunit.framework.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.Helpers.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.Mvc.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.Optimization.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.Razor.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.WebPages.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.WebPages.Deployment.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\System.Web.WebPages.Razor.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Antlr3.Runtime.pdb
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Newtonsoft.Json.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\EntityFramework.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\EntityFramework.SqlServer.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.Google.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.ApplicationInsights.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.DependencyCollector.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.WindowsServer.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\bin\Microsoft.AI.Web.xml
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.initialModel.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.CreateAttendeeTable.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.OverrideConventions.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.PopulateEventTable.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.AddForeignKeyProps.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.AlteredName.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.AddedGUID.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.Latest.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.Latest1.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.Latest2.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.AddedAttended.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.Migrations.EventNamesChange1.resources
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.csproj.GenerateResource.Cache
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.dll
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.pdb
+E:\Repository-Content\c-sharp\C# Course\iAttend\iAttend\obj\Debug\iAttend.csproj.CoreCompileInputs.cache

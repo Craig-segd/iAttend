@@ -1,0 +1,48 @@
+﻿@model iAttend.ViewModels.AttendeeFormModel
+@{
+    ViewBag.Title = "Add an Attendee";
+}
+
+@using (Html.BeginForm("Create", "Attendee"))
+{
+    @Html.AntiForgeryToken()
+
+    <ul class="nav nav-pills">
+        <li role="presentation" class="active"><a href="@Url.Action("Create", "Attendee")">Add an Attendee</a></li>
+        <li role="presentation"><a href="@Url.Action("Edit", "Attendee")">Edit an Attendee</a></li>
+    </ul>
+
+    <p class="alert alert-info">All fields are <strong>required</strong>.</p>
+
+    <div class="form-group">
+
+        <p style="font-size: 16px">Name</p>
+        @Html.TextBoxFor(m => m.Name, new {@class = "form-control"})
+        @Html.ValidationMessageFor(m => m.Name, "", new {@class = "text-danger"})
+    </div>
+    <div class="form-group">
+        <p style="font-size: 16px">Date of Birth</p>
+        @Html.TextBoxFor(m => m.Date, new { @class = "form-control", placeholder="DD MMM YYYY" } )
+        @Html.ValidationMessageFor(m => m.Date, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        <p style="font-size: 16px">Job Title</p>
+        @Html.TextBoxFor(m => m.JobTitle, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.JobTitle, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        <p style="font-size: 16px">Company</p>
+        @Html.TextBoxFor(m => m.Company, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Company, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        <p style="font-size: 16px">Event</p>
+        @Html.DropDownListFor(m => m.Event, new SelectList(Model.Events, "Id", "Name"), "Select a Conference", new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Event, "", new {@class="text-danger"})
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+}
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

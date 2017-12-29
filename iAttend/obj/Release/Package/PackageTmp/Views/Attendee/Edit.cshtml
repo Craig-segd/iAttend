@@ -1,0 +1,90 @@
+﻿@model IEnumerable<iAttend.Models.Attendee>
+@{
+    ViewBag.Title = "Edit";
+}
+
+<body ng-app='my-app'>
+<div ng-controller='AppController'>
+    
+    <ul class="nav nav-pills">
+        <li role="presentation"><a href="@Url.Action("Create", "Attendee")">Add an Attendee</a></li>
+        <li role="presentation" class="active"><a href="@Url.Action("Edit", "Attendee")">Edit an Attendee</a></li>
+    </ul>
+   
+    
+
+    <p class="alert alert-info">Check in, Edit or delete an Attendee account</p>
+
+    <table id="your_employees" class="table table-striped table-bordered table-hover">
+        <thead >
+        <tr>
+            <th>Name</th>
+            <th>Date Of Birth</th>
+            <th>Job Title</th>
+            <th>Company</th>
+            <th>Event ID</th>
+            <th class="text-center">Attendance</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item._Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.DateOfBirth)</td>
+                <td>@Html.DisplayFor(modelItem => item.JobTitle)</td>
+                <td>@Html.DisplayFor(modelItem => item.Company)</td>
+                <td>@Html.DisplayFor(modelItem => item.EventId)</td>
+               
+              
+                
+                <td class="text-center">
+                    @if (item.Attended == 1)
+                    {
+                        <button class="btn btn-success btn-sm" >Checked-in</button>
+                    }
+                    else
+                    {
+                        <button type="submit"class="btn btn-danger btn-sm" ng-class="change(@item.Attended)" ng-click="toggle = !toggle">{{toggleText}}</button>
+
+                    }
+                </td>
+                <td class="text-center">
+                    @Html.ActionLink("Edit", "EditAttendee", new {id = item.Id}) |
+                    @Html.ActionLink("Delete", "Delete", new {id = item.Id})
+                </td>
+            </tr>
+        }
+           
+        </tbody>
+    </table>
+</div>
+</body>
+
+@section Scripts {
+    <script src="~/Scripts/angular.js"></script>
+    <script>
+
+        var app = angular.module('my-app', [], function () {
+
+        });
+        app.controller('AppController', function ($scope) {
+            $scope.toggle = true;
+
+            $scope.$watch('toggle', function(){
+                $scope.toggleText = $scope.toggle ? 'Check-in' : 'Checked-in';
+            });
+
+            $scope.change = function (item) {
+
+                if ($scope.toggleText == "Checked-in" || item == 1) {
+                    return "btn btn-success btn-sm";
+                }
+                else{
+                    return "btn btn-danger btn-sm";
+                }
+            };
+        });
+    </script>
+
+    }

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<iAttend.Models.Attendee>
+@{
+    ViewBag.Title = "Event Information";
+}
+
+<h2>Event Information</h2>
+
+<p class="alert alert-info">Attendee population for events.</p>
+
+<table id="your_employees" class="table">
+    <thead>
+    <tr>
+        <th>MEN Arena</th>
+        <th>Tobacco Dock</th>
+        <th>NEC Arena</th>
+        <th>02 Academy</th>
+
+        <th></th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    <td>@ViewBag.mencount</td>
+    <td>@ViewBag.tobcount</td>
+    <td>@ViewBag.neccount</td>
+    <td>@ViewBag.o2count</td>
+    
+    
+</table>
+<button type="submit" class="btn btn-primary">Refresh</button>
+@section Scripts {
+    <script type="text/javascript">
+
+        $(function () {
+            $("#your_employees").dataTable({
+                "pagingType": "full_numbers"
+                , "scrollY": "400px"
+                , "columnDefs": [
+                    { "width": "45px", "targets": 0 }
+                    , { "width": "45px", "targets": 1 }
+                    , { "width": "45px", "targets": 2 }
+                    , { "width": "45px", "targets": 3 }
+                    , { "width": "45px", "targets": 4 }
+                    , { "width": "45px", "targets": 5 }
+                    , { "width": "45px", "targets": 6 }
+                ]
+                , "order": [[1, "asc"]]
+                , "dom": 'Rlfrtip'
+                , "stateSave": "true"
+                , "lengthMenu": [[-1, 10, 20, 50, 100], ["All", 10, 20, 50, 100]]
+            });
+        });
+
+    </script>
+    
+}
